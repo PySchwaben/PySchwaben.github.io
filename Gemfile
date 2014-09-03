@@ -9,3 +9,8 @@ gem 'github-pages'
 
 gem 'github-linguist'  #  needs sudo apt-get install libicu-dev
 gem 'github-markdown'
+
+# needed to run devserver
+# see https://github.com/sstephenson/execjs
+gem 'execjs'
+gem 'therubyracer'
