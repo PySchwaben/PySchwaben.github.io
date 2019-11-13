@@ -1,6 +1,0 @@
-# Created by .gitignore support plugin (hsz.mobi)
-
-### Jekyll template
-_site/
-
-Gemfile.lock
